@@ -44,5 +44,7 @@ Data Visualization: Create charts, graphs, and tables to visualize the findings 
 ## Insights
 
 1.Contact Type Analysis: Requests were the most common contact type, accounting for 53% of customer interactions, followed by Queries (38%) and Complaints (9%). This indicates that a significant portion of customer contacts is related to specific requests, making it an essential area for attention and improvement.
+
 2. Customer Visits: The data shows that daily customer visits remained consistent with no unusual fluctuations. This stability suggests that there are no significant variations in the frequency of customer contacts over the analyzed period.
+
 3. Agent Roch Cousineau: Roch Cousineau had the highest number of customer interactions among all agents. This indicates that Roch plays a crucial role in customer service and may require further analysis to understand the reasons behind the high interaction volume and to potentially optimize workload distribution among agents.
