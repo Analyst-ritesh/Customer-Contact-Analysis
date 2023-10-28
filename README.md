@@ -28,15 +28,13 @@ Rating Given: The rating given by the customer (in percentage).
 
 ## Data Processing:
 
-Data Import: Import the dataset into Microsoft Excel.
+Data Import: Imported the dataset into Microsoft Excel.
 
-Data Cleaning: Clean the data by addressing missing values, removing duplicates, and ensuring data consistency.
+Data Cleaning: Cleaned the data by addressing missing values, removing duplicates, and ensuring data consistency.
 
-Data Transformation: Create calculated columns if necessary, such as converting the "Rating Given" column to a numerical format.
+Data Analysis: Performed data analysis using Excel's functions and tools to achieve the project objectives. For example, use pivot tables to analyze contact types, agent performance, and order-related contacts.
 
-Data Analysis: Perform data analysis using Excel's functions and tools to achieve the project objectives. For example, use pivot tables to analyze contact types, agent performance, and order-related contacts.
-
-Data Visualization: Create charts, graphs, and tables to visualize the findings and insights. For instance, use bar charts to display the distribution of contact types and agent performance.
+Data Visualization: Created charts, graphs, and tables to visualize the findings and insights. 
 
 ![Screenshot (43)](https://github.com/Analyst-ritesh/Customer-Contact-Analysis/assets/137258065/1deaf014-7ddb-4772-9202-cfbb44c02f97)
 
